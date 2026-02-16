@@ -1,3 +1,13 @@
+# NOTICE
+As of 16 Feb 2026, this script is no longer the primary maintained version. 
+The original author has since released an official Python3 port here:
+[https://github.com/ORIGINAL_AUTHOR/ORIGINAL_REPO](https://github.com/Epic-Fight/blender-json-exporter)
+
+Please use that repository instead.
+
+
+
+
 # Epic Fight Animation & Model exporter
 This is my Blender `>2.8` fork of the Epic Fight Mod Blender export add-on originally written by [Yesman](https://github.com/Yesssssman).     
 Blender `2.79` and below used python2 syntax. From `2.8` onwards they moved to python3 and had some changes in the API.      
