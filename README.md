@@ -1,7 +1,7 @@
 # NOTICE
 As of 16 Feb 2026, this script is no longer the primary maintained version. 
 The original author has since released an official Python3 port here:
-[https://github.com/ORIGINAL_AUTHOR/ORIGINAL_REPO](https://github.com/Epic-Fight/blender-json-exporter)
+[ORIGINAL](https://github.com/Epic-Fight/blender-json-exporter)
 
 Please use that repository instead.
 
